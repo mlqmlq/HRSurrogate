@@ -1,0 +1,14 @@
+Package: HRSurrogate
+Title: Computing Bounds for Harm Rate
+Version: 0.1
+Authors@R: person("Linquan", "Ma", email = "mlqmlq1997@gmail.com", role = c("aut", "cre"))
+Description: This package can help calculating bounds for the harm rate from the treatment to the outcome, and it can check whether the individual surrogate paradox exist.
+Depends: R (>= 3.4)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1.9000
+NeedsCompilation: no
+Packaged: 2018-10-16 03:45:06 UTC; linquan
+Author: Linquan Ma
+Maintainer: Linquan Ma <mlqmlq1997@gmail.com>
